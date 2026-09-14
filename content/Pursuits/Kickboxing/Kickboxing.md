@@ -1,0 +1,5 @@
+- practice outside of lessons to improve form
+- master fundamentals
+- learn to wrap hands
+- how to maintain equipment
+- 

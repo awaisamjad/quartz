@@ -1,0 +1,7 @@
+- hepa air purifier
+  - A unit with an activated‑carbon filter will also reduce odours
+- soldering iron kit - Hakko FX-888D
+- railcard
+- new football shoes - shami one?
+- boxers
+- healthy snacks

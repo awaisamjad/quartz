@@ -1,0 +1,1 @@
+- to explore as much of the field as i can and enjoy it

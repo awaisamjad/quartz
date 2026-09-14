@@ -1,0 +1,955 @@
+[
+  {
+    "Person": "Andrew Earnshaw",
+    "Rank": "Partner",
+    "Capability": "AED",
+    "Notes": "Met with Andrew during the start of the program",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Becky Noble",
+    "Rank": "Partner",
+    "Capability": "AED",
+    "Notes": "Becky had no work in home office, discussed strategies to find work, reccomended people to talk to, messaged again on 7/04/26 for an update but she didn’t have any work for me but said to keep me in mind",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "James Mucklow",
+    "Rank": "Partner",
+    "Capability": "AED",
+    "Notes": "James discussed his previous history of work, gave advice as a software engineer, didn’t have work for me, messaged him again on 05/02/26 - left on read and 13/02/26 - waiting",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Jim Baum",
+    "Rank": "Partner",
+    "Capability": "AED",
+    "Notes": "Messaged Jim on ",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Matt Whalley",
+    "Rank": "Partner",
+    "Capability": "AED",
+    "Notes": "Had an intro with Matt, went well and he discussed his long history at PA, meeting was 45 mins, had no work for me, messaged him again on 05/02 but no response and he didn’t read message, messaged him again 13/02 - waiting",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Nedzad Hodzic",
+    "Rank": "Partner",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Neil McKeown",
+    "Rank": "Partner",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Paul Heaviside",
+    "Rank": "Partner",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Rahul Gupta",
+    "Rank": "Partner",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Aadersh Patel",
+    "Rank": "AP",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "James Edwards",
+    "Rank": "AP",
+    "Capability": "AED",
+    "Notes": "G",
+    "Keep in Touch": true,
+    "Catchups": {
+      "Notes": "Quick catchup, told James about the project work and my status. Currently have 2 weeks extended so hes got that in mind",
+      "Date": "29/5/26"
+    }
+  },
+  {
+    "Person": "Joseph Ellis",
+    "Rank": "AP",
+    "Capability": "AED",
+    "Notes": "Met Joseph at the start of the scheme and discussed technical stuff, mentioned I should look into the cambridge work, connected with him 3 months later and had a catchup, didn’t have work for me, met him 21/4/26 to discuss new line manager and he organised that for me",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Paul rundle",
+    "Rank": "AP",
+    "Capability": "AED",
+    "Notes": "Met Paul in person and had good advice 'remember who pays your salary', messaged him 2 months later for work but had no work",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Alex Taylor",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Andrew Graham",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Ben Howes",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Luke Jackson",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Mei Saouk",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Neil Broadbent",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Pomil Katoch",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Richard Webb",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Sarah Saunders",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Stuart Cosby",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Tim Garrood",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Tony Espley",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Aj Arawwawala",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Andrew Eburne",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Andrew Marshall",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "nice guy, prob not much benefit keeping in touch",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Bradley Tenuta",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": " techy guy",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Cem Ozturan",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "james edwards line report - techy",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Colin Ashworth",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Daniel Gagar",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "David White",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "cant even remember the meeting",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Ed Barbor",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "dont remember",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Elaine Carmichael",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "nice but not much to talk about - energy",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Igor Calic",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "rentokill guy, nice but not much benefit in KIT",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "",
+    "Rank": "",
+    "Capability": "",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Luke Mcllwaine",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "80% coding - hls - nice guy not much work he has",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Michael Daramola",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "did consulting essentials with",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Sahana Kasaru",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "QA",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Shahzad Hassan",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "did meeting with younes and umar",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Igor Ozerskii",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "healthcare data engineering ",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Sarah Hamilton",
+    "Rank": "",
+    "Capability": "AED",
+    "Notes": "did NTMA bid with",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Sam Tripp",
+    "Rank": "SC",
+    "Capability": "DTCS",
+    "Notes": "did consulting essentials with, nice guy but no KIT",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Heledd Roberts",
+    "Rank": "Con",
+    "Capability": "AI",
+    "Notes": "AI",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Rafael Blanco Bush",
+    "Rank": "PC",
+    "Capability": "Agile",
+    "Notes": "very nice guy - gave great advice",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Santheep",
+    "Rank": "PC",
+    "Capability": "AI",
+    "Notes": "top g",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Morten Schultz",
+    "Rank": "MC",
+    "Capability": "Agile",
+    "Notes": "agile stuff - was on a run",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Mark Wilson",
+    "Rank": "PC",
+    "Capability": "Agile",
+    "Notes": "agile - recommended making own project",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Jonny Barton",
+    "Rank": "AP",
+    "Capability": "Op Model",
+    "Notes": "university stuff - keeps airing me",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Ted Edmondson",
+    "Rank": "Partner",
+    "Capability": "Delivery",
+    "Notes": "university stuff - recommended salesforce",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "",
+    "Rank": "",
+    "Capability": "",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "",
+    "Rank": "",
+    "Capability": "",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "",
+    "Rank": "",
+    "Capability": "",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "",
+    "Rank": "",
+    "Capability": "",
+    "Notes": "",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Lee Howells",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "very nice, also cant get a project rn, keep in touch",
+    "Keep in Touch": true,
+    "Catchups": {
+      "Notes": "General catchup, told him about catchup, gave me advice",
+      "Date": "13/5/26"
+    }
+  },
+  {
+    "Person": "Owen Gardiner",
+    "Rank": "PC",
+    "Capability": "Agile",
+    "Notes": "Very nice, recommended people in agile",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Adam Pearce",
+    "Rank": "PC",
+    "Capability": "",
+    "Notes": "Feedzai stuff",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Leo Boe",
+    "Rank": "PC",
+    "Capability": "",
+    "Notes": "Econ but talked to him for TKO Ai - very nice",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Miles Budden",
+    "Rank": "Con",
+    "Capability": "AI",
+    "Notes": "AI guy, knows what he talking about",
+    "Keep in Touch": true,
+    "Catchups": {
+      "Notes": "first catchup talking about random tech stuff. really nice to talk to and knows his stuff",
+      "Date": "11/5/26"
+    }
+  },
+  {
+    "Person": "Jena Sheth",
+    "Rank": "CA",
+    "Capability": "",
+    "Notes": "FS Bid",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Liliane Lindsay",
+    "Rank": "PC",
+    "Capability": "AI",
+    "Notes": "regulatory side of ai - very nice ",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Julian Followell",
+    "Rank": "PC",
+    "Capability": "HLS",
+    "Notes": "talked for very long, pretty techy",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Sarah Saunders",
+    "Rank": "MC",
+    "Capability": "",
+    "Notes": "working on ai agents rn - pretty nice",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Heledd Roberts",
+    "Rank": "Con",
+    "Capability": "AI",
+    "Notes": "very nice",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Chris marks",
+    "Rank": "",
+    "Capability": "",
+    "Notes": "aired the meeting - think he left PA",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Edward French",
+    "Rank": "",
+    "Capability": "",
+    "Notes": "cant remember",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Sophia Wokoma",
+    "Rank": "CA",
+    "Capability": "AED",
+    "Notes": "nordson",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Ifunanya Odunukwe",
+    "Rank": "CA",
+    "Capability": "AED",
+    "Notes": "Did the nordson bid work with him, pretty techy and met him in badminton as well",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Paul May",
+    "Rank": "PC",
+    "Capability": "DS",
+    "Notes": "Nice to talk to, usual intros, discussed DS and current work at PA. No work for me, gave usual advice and had a newborn. Messaged him on 14/4/26 and left on read",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Kyle McCaffery",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "Nice to talk to, offered help, could keep in touch. Discussed his current which he was looking to get sold in ~2 months. Did usual intros, Messaged him on 31/3/26 and he said its progressed and theres potential. Doesn’t know about ranks. Messaged him on 16/4/26 and will see",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Srinivus",
+    "Rank": "Partner",
+    "Capability": "",
+    "Notes": "AI guy, nice, very busy, interested in the vibe coding side of AI and not that technical. Discussed some AI stuff and had to leave for another meeting",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Rory Scott",
+    "Rank": "MC",
+    "Capability": "",
+    "Notes": "AI guy, knows what he talking about, discussed his degree and did usual intros, working on defence, told him I had L2 and he said hed keep me in mind, messaged him on 13/4/26 and he didn’t see it yet",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Jack Hodges",
+    "Rank": "PC",
+    "Capability": "DS",
+    "Notes": "Data Science guy, knows what he talking about, gave the usual advice for getting a project, met with him on 10/4/26 and he was more concerned that I still don’t have project work, recommended shadowing and I will report back to him about it",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Nick Warrington",
+    "Rank": "AP",
+    "Capability": "ENG",
+    "Notes": "Experienced SW engineer, discussed whats going on in Cambridge, a lot of embedded stuff, met with him for HLS stuff and he gave some example of what they do",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Toby rickett",
+    "Rank": "PC",
+    "Capability": "ENG",
+    "Notes": "Experienced SW engineer, discussed whats going on in Cambridge, a lot of embedded stuff",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Rachel Alsop",
+    "Rank": "MC",
+    "Capability": "DS",
+    "Notes": "Very nice, currently didn’t have anything but gave a lot of reccs of ppl to talk to, followed up on 15/4/26 and she is on a phased return, recommended stephen farrington bell, messaged him and hes left me on read",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Brendan Campbell",
+    "Rank": "Con",
+    "Capability": "AI",
+    "Notes": "Didn’t have work, discussed his current project of using AI within the court system to clean a lot of documents, auto transcribe etc",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Ihtasham Chaudhry",
+    "Rank": "PC",
+    "Capability": "AI",
+    "Notes": "Didn’t have work, currently working on sweden based project around use of AI and regulatory stuff",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Amar Bharaj",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "Booked with him 3 months ago and it kept getting moved around. Tried again on 10/3/26 and he didn’t accept and missed",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Damien Coney",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "Didn’t have work, talked about experience with golang, read my CV, said he also had to wait some time to start a project",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Iain Graf",
+    "Rank": "Partner",
+    "Capability": "Agile",
+    "Notes": "Manages Home office, said hed talk to Nedzad for me to discuss any potential/space, discussed his role and potential of AI within developer work, local and open source llms and what they can do",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Momina Rehman",
+    "Rank": "AP",
+    "Capability": "Agile",
+    "Notes": "Discussed what agile was and I enquired questions around agile i.e how to use agile in different settings and stuff. Then discussed my interest in agile and other capabilities. Her advice was genuine and told me to focus on why AED and digital is not working for me rather than trying to switch just for UTE. As I am an engineer and that is my passion I should dedicate my time to fixing that. Discussed issues around my approach of getting a project and what stuck out was my 'elevator pitch'",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Abedul Hussain",
+    "Rank": "MC",
+    "Capability": "Agile",
+    "Notes": "Didn’t accept and missed first one",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Richard Allen",
+    "Rank": "MC",
+    "Capability": "DTCS",
+    "Notes": "Met for the F1 project, did basic intros, talked abouy llms and ai",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Hannah Carter",
+    "Rank": "AP",
+    "Capability": "Agile",
+    "Notes": "Very very nice, had a great conversation with her. Talked about her previous experience as an engineer and the benefit shes had of that experience and now moving to agile. Talked about our days and the type of work PA sell. Good connect",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "James Shepherd",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "nice down to earth, very technical as an engineer and has a lot of experience, really good at java",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Thomas Charmicael",
+    "Rank": "SC",
+    "Capability": "AED",
+    "Notes": "Made the Kaiwa project, gave us a run through, leaving PA",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Chris Atkinson",
+    "Rank": "MC",
+    "Capability": "DTCS",
+    "Notes": "Discussed ongoing stuff in DTCS, defence who to speak to, busy and very nice",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Gianluca Barletta",
+    "Rank": "Partner",
+    "Capability": "DS",
+    "Notes": "Head of Data Science, had a bad internet connection, explained the history of DS in PA and what the 2 pillars of DS were. Didn’t have work but gave names of ppl to speak to. Nice",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Jurjen Verploegh",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "Messaged him with my CV first and he gave good feedback on it, booked a meeting and he wanted a reschedule due to client call, did that but he missed and gave no message this time. 21/4/26 ",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Hugo Cohn",
+    "Rank": "PC",
+    "Capability": "SIS",
+    "Notes": "Dublin Airport bid, nice guy and gave me responsibility for 2 questions, ",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "David Miranda",
+    "Rank": "AP",
+    "Capability": "AI",
+    "Notes": "Cant get a meeting with this guy too busy but have messaged him for the Dublin Airport bid and he knows what hes saying",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Sahil Shah",
+    "Rank": "AP",
+    "Capability": "Agile",
+    "Notes": "Boring meeting nothing to really discuss, gave me advice of sticking to AED (in a good way (common theme from these top Agile guys))",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Laura Marsden",
+    "Rank": "Partner",
+    "Capability": "DTCS",
+    "Notes": "Declined meeting",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Richard Wilson",
+    "Rank": "PC",
+    "Capability": "SIS",
+    "Notes": "Chill guy, introduced us to the Kaiwa project ",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Edward Watkinson-Deane",
+    "Rank": "MC",
+    "Capability": "DS",
+    "Notes": "Discussed some possible areas where developer work could be used in his work, nice",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Hawa Saed",
+    "Rank": "SC",
+    "Capability": "AI",
+    "Notes": "Intro with her for Kaiwa, nice",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Jai Duhia",
+    "Rank": "Partner",
+    "Capability": "AED",
+    "Notes": "Very nice, intros, discussed me not having a project yet, kept him up to date with situation for a week, pretty sure he helped me get DfT with David Cooper by chatting to him",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Chris Goslin",
+    "Rank": "MC",
+    "Capability": "DTCS",
+    "Notes": "nice, standard intros, no work for me, not the biggest fan of the AI capability cuz of past experiences where a showcase didn’t go well and left him embarssed in front of clients, ",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Carl Mendes",
+    "Rank": "PC",
+    "Capability": "Agile",
+    "Notes": "First met him at badminton, had a catchup on 23 April, really good advice",
+    "Keep in Touch": true
+  },
+  {
+    "Person": "Henry Edwards",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "Low Code solutions, not much interesting to talk about on his side",
+    "Keep in Touch": false
+  },
+  {
+    "Person": "Ben Pauley",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "Tech lead on the DfT project, really nice guy, gives great advice and knows his stuff",
+    "Keep in Touch": true,
+    "Date": "24/4/26"
+  },
+  {
+    "Person": "Michael Crawford",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "AM on the DFT project, really nice guy",
+    "Keep in Touch": true,
+    "Date": "24/4/26"
+  },
+  {
+    "Person": "David Cooper",
+    "Rank": "AP",
+    "Capability": "AED",
+    "Notes": "Not exactly sure on his role but very high up on the project, really nice guy",
+    "Keep in Touch": true,
+    "Date": "24/4/26"
+  },
+  {
+    "Person": "Jack Packham",
+    "Rank": "Analyst",
+    "Capability": "AED",
+    "Notes": "Other developer on the DfT project, really nice guy, organises the 'Apprentice Group' stuff so in talks with Rez",
+    "Keep in Touch": true,
+    "Date": "29/4/26"
+  },
+  {
+    "Person": "Gabriel Popescu",
+    "Rank": "Con",
+    "Capability": "AED",
+    "Notes": "Another developer on the DfT project, really nice guy, proper technical in c#",
+    "Keep in Touch": true,
+    "Date": "29/4/26"
+  },
+  {
+    "Person": "Nick MacDonald",
+    "Rank": "MC",
+    "Capability": "DTCS",
+    "Notes": "Pretty high in DTCS, straightforward guy, talking with him confirmed DTCS is boring and has nothing for me",
+    "Keep in Touch": false,
+    "Date": "30/4/26"
+  },
+  {
+    "Person": "Hannah Zalewska",
+    "Rank": "Con",
+    "Capability": "HIS",
+    "Notes": "On dft project, Nice to talk to",
+    "Keep in Touch": "",
+    "Date": "30/4/26"
+  },
+  {
+    "Person": "Abhijat Alok",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "Met at the Mock interview event. Nice and a bit quiet",
+    "Keep in Touch": false,
+    "Date": "5/5/26"
+  },
+  {
+    "Person": "Ridhi Batt",
+    "Rank": "Con",
+    "Capability": "Delivery",
+    "Notes": "Met at the Mock interview event. Nice and new to PA",
+    "Keep in Touch": false,
+    "Date": "5/5/26"
+  },
+  {
+    "Person": "Fabio Tignanelli",
+    "Rank": "PC",
+    "Capability": "Engineering",
+    "Notes": "Met at the Mock interview event. Really techincal, standard GITC guy, talked about his projects and experience at PA, told him about memory project and he gave some advice and anecdote about another company who PA helped to get funding",
+    "Keep in Touch": true,
+    "Date": "5/5/26"
+  },
+  {
+    "Person": "Jamal Jalloh",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "Pretty nice, James' line report, working on rentokill PWA app, on the F1 project so will chat to him in the future",
+    "Keep in Touch": true,
+    "Date": "5/5/26",
+    "Catchups": {
+      "Notes": "F1 Game",
+      "Date": "14/5/26"
+    }
+  },
+  {
+    "Person": "Marina Johnston",
+    "Rank": "Partner",
+    "Capability": "Agile",
+    "Notes": "Really nice, based in Australia, working on getting the bank clients and setting up PA in Australia",
+    "Keep in Touch": true,
+    "Date": "29/4/26"
+  },
+  {
+    "Person": "Miles Budden",
+    "Rank": "SC",
+    "Capability": "AI",
+    "Notes": "first catchup talking about random tech stuff. really nice to talk to and knows his stuff",
+    "Keep in Touch": true,
+    "Date": "11/5/26"
+  },
+  {
+    "Person": "Saish Mayekar",
+    "Rank": "SC",
+    "Capability": "DS",
+    "Notes": "Lead for the Pay.uk project",
+    "Keep in Touch": false,
+    "Date": "12/5/26"
+  },
+  {
+    "Person": "Chris Dunne",
+    "Rank": "MC",
+    "Capability": "DS",
+    "Notes": "AM (i think) for the Pay.uk project",
+    "Keep in Touch": false,
+    "Date": "12/5/26"
+  },
+  {
+    "Person": "Chris Dunne",
+    "Rank": "MC",
+    "Capability": "DS",
+    "Notes": "AM (i think) for the Pay.uk project",
+    "Keep in Touch": false,
+    "Date": "12/5/26"
+  },
+  {
+    "Person": "D'Jhanee Soyebo",
+    "Rank": "App",
+    "Capability": "DS",
+    "Notes": "longest meeting, very nice, talked about general things as well as project role",
+    "Keep in Touch": true,
+    "Date": "14/5/26"
+  },
+  {
+    "Person": "Kenneth Mascarenhas",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "Met finally after delays, nice guy to the point, talked about gemini enterprise, also gave me advice for GCP to do after AWS and would be good for DfT. Follow up for GCP",
+    "Keep in Touch": true,
+    "Follow Up": true,
+    "Date": "14/5/26"
+  },
+  {
+    "Person": "Yasir Al Mahdi",
+    "Rank": "Analyst",
+    "Capability": "Agile",
+    "Notes": "Had a catchup after 3 weeks",
+    "Keep in Touch": true,
+    "Follow Up": true,
+    "Date": "18/5/26"
+  },
+  {
+    "Person": "Asmae Bouddou",
+    "Rank": "PC",
+    "Capability": "Agile",
+    "Notes": "Discussed the Eid Al Adha event",
+    "Keep in Touch": false,
+    "Follow Up": true,
+    "Date": "22/5/26"
+  },
+  {
+    "Person": "Nikhil Bharathesh",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "General intros, nothing special",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "1/6/26"
+  },
+  {
+    "Person": "Slawomir Pasternak",
+    "Rank": "SC",
+    "Capability": "AED",
+    "Notes": "General intro, ismail interrupted",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "2/6/26"
+  }
+]
