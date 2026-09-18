@@ -10,6 +10,9 @@ configuration:
   baseUrl: notes.awais.me
   ignorePatterns:
     - private
+    - personal
+    - Personal
+    - work
     - templates
     - .obsidian
   theme:
