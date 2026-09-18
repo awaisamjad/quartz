@@ -1,2 +1,3 @@
 [tasks]
-build = "npx quartz build --serve"
+rsync = 'rsync -av --exclude=".git" --exclude="codebook.toml" ~/notes/ ~/quartz/content/'
+build = "mise rsync && npx quartz build --serve"
