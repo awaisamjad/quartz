@@ -1,0 +1,2 @@
+- Prepare PC for test
+- Revise and prepare

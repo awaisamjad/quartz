@@ -1,12 +1,4 @@
-### Prayer time caldav
-
-scrape newhammosques
-
-create simple caldav server on server
-
-### Git Server
-
-### Custom firewall cli
+### Custom firewall
 
 ### Mermaid Like Diagramming tool
 

@@ -1,3 +1,4 @@
 [tasks]
 rsync = 'rsync -av --exclude=".git" --exclude="codebook.toml" ~/notes/ ~/quartz/content/'
-build = "mise rsync && npx quartz build --serve"
+build = "mise rsync && npx quartz build"
+run = "mise rsync && npx quartz build --serve --port 8081"

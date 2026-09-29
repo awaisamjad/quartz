@@ -1,15 +1,10 @@
 Hi [Name] hope you're well. I am highly interested in the [Role] position. I recently completed my role as a Software Engineer on the Department for Transport project alongside David Cooper and Michael Crawford, where I led the data analysis with Python and had strong responsibility in the .NET backend. 
 
-I can do [] for you.
- 
-Rahul Gupta suggested I contact you directly to discuss the opportunities within this project. Please let me know your availability for a brief introductory meeting this week. Thank you
-
-
 # Introduction Email
 ### General
 Hi, I hope you are well!
 
-I am one of the graduate analysts that has joined PA, and I am part of the AED team. I just wanted to put in 15 minutes to briefly introduce myself and learn a bit about the projects that you have worked on.
+I am one of the graduate analysts part of the AED team and looking to reach out to adjacent capabilities. I’ve put in 15 minutes to briefly introduce myself and learn a bit about yourself and the projects that you have worked on.
 
 Please feel free to reschedule if needed.
 
@@ -52,6 +47,8 @@ Additionally, I'm very interested in Excel modelling — I believe my skills the
 If there's capacity where you need a pair of hands (whether it's internal work, showcasing, or any support), please let me know. I am very keen to support!
 
 Thank you!
+
+Heres a link to my CV https://paconsulting.sharepoint.com/sites/papeople/CVs/Forms/Modal%20View.aspx?viewid=4bb4428f%2Da198%2D40fb%2D9473%2Dd2f631a1cae9&FolderCTID=0x012000161DB391901DD841A006B9428A64F4FA&view=7&q=Awais%20Amjad
 
 # interested in a project
 Hi [NAME] hope you're doing well. I'm really interested in [WORK] and any roles available. I have a strong [SKILLS]. Could we schedule some time for introductions and further discussions. Thank you!

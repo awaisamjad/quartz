@@ -29,6 +29,7 @@ Notes: Provide a pretty detailed answer explaining the achievements and how they
 
 - Did 2 Q&A sessions for placement interviewees and 2 for graduate interviewees looking to join the company, went out of my way to message the organisers to be part which was a great help for them
 
+- Volunteered to help with REuk bake sale event
 # Goals
 
 ## Continuously work on professional development
@@ -45,3 +46,7 @@ Provide excellent assistance on bids and propositions, winning work for PA
 
 ## Trainings and Certifications
 Start and complete professional certifications to improve and showcase my skills. I will start with completing the AWS Cloud practitioner certification
+
+**People to get feedback from** 
+- [ ] Emma henderson?
+- [ ] abby phoenix

@@ -228,13 +228,6 @@
     "Keep in Touch": true
   },
   {
-    "Person": "Andrew Eburne",
-    "Rank": "",
-    "Capability": "AED",
-    "Notes": "",
-    "Keep in Touch": false
-  },
-  {
     "Person": "Andrew Marshall",
     "Rank": "",
     "Capability": "AED",
@@ -941,7 +934,7 @@
     "Notes": "General intros, nothing special",
     "Keep in Touch": false,
     "Follow Up": false,
-    "Date": "1/6/26"
+    "Date": "1/7/26"
   },
   {
     "Person": "Slawomir Pasternak",
@@ -950,6 +943,438 @@
     "Notes": "General intro, ismail interrupted",
     "Keep in Touch": false,
     "Follow Up": false,
-    "Date": "2/6/26"
+    "Date": "2/7/26"
+  },
+  {
+    "Person": "Richard Allen",
+    "Rank": "MC",
+    "Capability": "DTCS",
+    "Notes": "F1 Game catchup",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "3/7/26"
+  },
+  {
+    "Person": "Jamal Jalloh",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "F1 Game catchup",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "3/7/26"
+  },
+  {
+    "Person": "Jena Sheth",
+    "Rank": "CA",
+    "Capability": "People and Change",
+    "Notes": "Buddy meeting briefing meeting",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "6/7/26"
+  },
+  {
+    "Person": "Abdul Alao",
+    "Rank": "Intern",
+    "Capability": "",
+    "Notes": "Buddy meeting",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "14/7/26"
+  },
+  {
+    "Person": "Shane O'Reilly",
+    "Rank": "CA",
+    "Capability": "AED",
+    "Notes": "Onboarding new developer, introduction meeting",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "16/7/26"
+  },
+  {
+    "Person": "Marcus Cumming",
+    "Rank": "Contracter",
+    "Capability": "",
+    "Notes": "Catchup with marcus to discuss failing tests on the project",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "17/7/26"
+  },
+  {
+    "Person": "Kai Page",
+    "Rank": "SC",
+    "Capability": "DS",
+    "Notes": "Introduction meeting to discuss Data Analyst for the Society of interventional radiologists project, i met a majority of the requirements but someone else with more experience was chosen",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "31/7/26"
+  },
+  {
+    "Person": "Luke Mcllwaine",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "Meeting to discuss AI Academey internal project, there was no util for this",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "6/8/26"
+  },
+  {
+    "Person": "Gregory Carter-Buckley",
+    "Rank": "App",
+    "Capability": "AED",
+    "Notes": "Meeting to discuss AI Academey internal project, there was no util for this",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "6/8/26"
+  },
+  {
+    "Person": "Gregory Carter-Buckley",
+    "Rank": "App",
+    "Capability": "AED",
+    "Notes": "Football",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "6/8/26"
+  },
+  {
+    "Person": "Michael Oppong",
+    "Rank": "Analyst",
+    "Capability": "DTCS",
+    "Notes": "Football",
+    "Keep in Touch": true,
+    "Follow Up": false,
+    "Date": "6/8/26"
+  },
+  {
+    "Person": "Phillip Sharma",
+    "Rank": "SC",
+    "Capability": "People and Change",
+    "Notes": "Football",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "6/8/26"
+  },
+  {
+    "Person": "Siavash Tabanfar",
+    "Rank": "SC",
+    "Capability": "",
+    "Notes": "Football",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "6/8/26"
+  },
+  {
+    "Person": "Leon Ristov",
+    "Rank": "IP",
+    "Capability": "",
+    "Notes": "Football",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "6/8/26"
+  },
+  {
+    "Person": "Jaswinder Singh",
+    "Rank": "IP",
+    "Capability": "",
+    "Notes": "Football",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "6/8/26"
+  },
+  {
+    "Person": "Rayhaan Zaman",
+    "Rank": "IP",
+    "Capability": "",
+    "Notes": "Football",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "6/8/26"
+  },
+  {
+    "Person": "Patrick Graham",
+    "Rank": "PC",
+    "Capability": "DTCS",
+    "Notes": "Football",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "6/8/26"
+  },
+  {
+    "Person": "Colin Mcallister",
+    "Rank": "Con",
+    "Capability": "",
+    "Notes": "Football",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "6/8/26"
+  },
+  {
+    "Person": "Alex Moseman",
+    "Rank": "App",
+    "Capability": "AED",
+    "Notes": "Introduction meeting, discusses the opportunites that hes on, currently working on multiple bids and will connect me with others, got the dell project from him",
+    "Keep in Touch": true,
+    "Follow Up": false,
+    "Date": "19/8/26"
+  },
+  {
+    "Person": "Lee Howells",
+    "Rank": "App",
+    "Capability": "AED",
+    "Notes": "General catchup, discussed him hiring for home office but cant get me on it",
+    "Keep in Touch": true,
+    "Follow Up": false,
+    "Date": "21/8/26"
+  },
+  {
+    "Person": "Joshua Kenley",
+    "Rank": "App",
+    "Capability": "AED",
+    "Notes": "Home office BA role, very nice guy and was honest that i most likely wont get it which made sense",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "23/8/26"
+  },
+  {
+    "Person": "Glyn Griffiths",
+    "Rank": "Associate Director of Engineering",
+    "Capability": "Engineering",
+    "Notes": "Dell project introduction",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "28/8/26"
+  },
+  {
+    "Person": "Eoin McNally",
+    "Rank": "Principal Designer",
+    "Capability": "Design",
+    "Notes": "Dell project introduction",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "28/8/26"
+  },
+  {
+    "Person": "Kev Dunne",
+    "Rank": "Principal Designer",
+    "Capability": "Design",
+    "Notes": "Dell project introduction",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "28/8/26"
+  },
+  {
+    "Person": "Maya Kolade",
+    "Rank": "PC",
+    "Capability": "Op Model",
+    "Notes": "Home office PMO role, she said i was a great fit but it was not a technical role and required a miniumum of 12 months commitment so i passed on it",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "1/9/26"
+  },
+  {
+    "Person": "Mel Reynolds",
+    "Rank": "SC",
+    "Capability": "Engineering",
+    "Notes": "Dell project introduction, nice guy",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "28/8/26"
+  },
+  {
+    "Person": "Kev Dunne",
+    "Rank": "Principal Designer",
+    "Capability": "Design",
+    "Notes": "Dell project introduction",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "28/8/26"
+  },
+  {
+    "Person": "David Cooper",
+    "Rank": "AP",
+    "Capability": "AED",
+    "Notes": "Catchup following leaving DfT and told him i got a new project cuz of his list of people to meet",
+    "Keep in Touch": true,
+    "Follow Up": false,
+    "Date": "7/8/26"
+  },
+  {
+    "Person": "Umesh Gupta",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "Introduction meeting for project, twice a month in glasgow, techincal data architect but very early so no tech work at the start, 3-4 month stint, client only wanted senior people so didnt get it",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "7/8/26"
+  },
+  {
+    "Person": "Kerry Seaton",
+    "Rank": "SC",
+    "Capability": "Major Programme Services",
+    "Notes": "Brendan Campbell was ill for a while so incase he couldnt come back this role was for that, didnt get as he came back",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "8/8/26"
+  },
+  {
+    "Person": "Alan Millar",
+    "Rank": "MC",
+    "Capability": "DSE",
+    "Notes": "Very nice guy, had some projects going on but not looking for new hires just yet, most likely in late decemeber",
+    "Keep in Touch": false,
+    "Follow Up": true,
+    "Date": "8/8/26"
+  },
+  {
+    "Person": "Ihtasham Chaudhry",
+    "Rank": "PC",
+    "Capability": "AED",
+    "Notes": "Catchup, discussed general things and tech stuff, told him about my probation etc and he offered to help and give feedback",
+    "Keep in Touch": true,
+    "Follow Up": true,
+    "Date": "8/8/26"
+  },
+  {
+    "Person": "Glyn Griffiths",
+    "Rank": "Associate Director of Engineering",
+    "Capability": "Engineering",
+    "Notes": "Dell project wrap up and hand over",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "8/8/26"
+  },
+  {
+    "Person": "Anurag Abinashi",
+    "Rank": "PC",
+    "Capability": "Alliances",
+    "Notes": "Introduction, bid work on Sailpoint due diligence questionnare, nice guy, gave feedback",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "10/8/26"
+  },
+  {
+    "Person": "Miles Budden",
+    "Rank": "SC",
+    "Capability": "AI",
+    "Notes": "Catchup, talked about tech stuff, told about situation and put me on AI Energy project",
+    "Keep in Touch": true,
+    "Follow Up": false,
+    "Date": "10/8/26"
+  },
+  {
+    "Person": "Nick Dunn",
+    "Rank": "CD",
+    "Capability": "AED",
+    "Notes": "Finally met after many reschedules, really nice guy and gave great advice, doesnt really hire for roles so cant get off him but gave me people to talk to",
+    "Keep in Touch": true,
+    "Follow Up": false,
+    "Date": "14/8/26"
+  },
+  {
+    "Person": "David Berry",
+    "Rank": "MC",
+    "Capability": "DS",
+    "Notes": "Talked about some data stuff regarding home office and there should be roles available there",
+    "Keep in Touch": false,
+    "Follow Up": true,
+    "Date": "15/8/26"
+  },
+  {
+    "Person": "Glyn Griffiths",
+    "Rank": "Associate Director of Engineering",
+    "Capability": "Engineering",
+    "Notes": "Final final leftover work which is NOT utilised kmt",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "15/8/26"
+  },
+  {
+    "Person": "Miles Budden",
+    "Rank": "SC",
+    "Capability": "AI",
+    "Notes": "Overview before miles goes on leave",
+    "Keep in Touch": true,
+    "Follow Up": false,
+    "Date": "15/8/26"
+  },
+  {
+    "Person": "Samir Sinha",
+    "Rank": "SC",
+    "Capability": "DS",
+    "Notes": "Talks a lot and fast, nice guy, intro to the project but he doesnt play much of a role in it",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "16/8/26"
+  },
+  {
+    "Person": "Christian Motschenbacher",
+    "Rank": "PC",
+    "Capability": "DS",
+    "Notes": "Intro for project but doesnt do much on it",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "17/8/26"
+  },
+  {
+    "Person": "Leland Goyle",
+    "Rank": "MC",
+    "Capability": "DSE",
+    "Notes": "Leads One login, nice guy, bolo, worked on HO for years and now on this",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "17/8/26"
+  },
+  {
+    "Person": "Chris Jackson",
+    "Rank": "MC",
+    "Capability": "Economics and Invest Strat",
+    "Notes": "Product owner of AI project, general intro and explanation of project",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "17/8/26"
+  },
+  {
+    "Person": "Iain Graf",
+    "Rank": "Partner",
+    "Capability": "Agile",
+    "Notes": "Nice catchup, talked more about HO and bids that are going, said to reach out to becky and ned for that",
+    "Keep in Touch": true,
+    "Follow Up": true,
+    "Date": "18/8/26"
+  },
+  {
+    "Person": "William Shelden",
+    "Rank": "SC",
+    "Capability": "Economics and Invest Strat",
+    "Notes": "intro for the project, is the guy that knows a lot of the energy utility stuff",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "18/8/26"
+  },
+  {
+    "Person": "Gareth Storey",
+    "Rank": "PC",
+    "Capability": "Delivery",
+    "Notes": "Yasir said he was looking for technical delivery guys so i reached out, not much for analyst level",
+    "Keep in Touch": false,
+    "Follow Up": false,
+    "Date": "21/8/26"
+  },
+  {
+    "Person": "Caroline Butler",
+    "Rank": "PC",
+    "Capability": "DSE",
+    "Notes": "AM for HMCTS project i think or something like that, looking for a dev but when i talked to her she had budget issues, offered to help with bid work which lit her eyes up",
+    "Keep in Touch": false,
+    "Follow Up": true,
+    "Date": "21/8/26"
+  },
+  {
+    "Person": "Edward French",
+    "Rank": "MC",
+    "Capability": "AED",
+    "Notes": "on the , nice guy, very straightforward, home office guy, would let me know if there are any roles available",
+    "Keep in Touch": false,
+    "Follow Up": true,
+    "Date": "21/8/26"
   }
 ]

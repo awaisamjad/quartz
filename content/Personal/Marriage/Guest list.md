@@ -1,178 +1,105 @@
-| My Family |
-| :-------- |
-| Mum       |
-| Dad       |
-| Taybah    |
-| Haris     |
-| Ismail    |
-| Amna      |
-| Atif      |
-| Idris     |
-
-| Cousins       |
-| :------------ |
-| Auntie Rubina |
-| Uncle Zahid   |
-| Sameer        |
-| Uzair         |
-| Huda          |
-| Haadiya       |
-
-| Cousins         |
-| :-------------- |
-| Auntie Saima    |
-| Uncle Ghazanfar |
-| Fatima          |
-| Urooj           |
-| Ihtasham        |
-| Taha            |
-
-| Cousins      |
-| :----------- |
-| Uncle Arshad |
-| Auntie       |
-| Asim         |
-
-| Cousins           |
-| :---------------- |
-| Muzzamil (Cousin) |
-|                   |
-| Zainab            |
-| Maryam            |
-| Ali               |
-
-| Cousins |
-| :------ |
-| Tajamal |
-|         |
-| Inaya   |
-
-| Cousins |
-| :------ |
-| Naveed  |
-|         |
-| Marwa   |
-| Safa    |
-
-| Cousins |
-| :------ |
-| Nadeem  |
-|         |
-| Dua     |
-
-| Uncle and Auntie |
-| :--------------- |
-| Uncle Arif       |
-| Auntie Musarat   |
-
-| Mandem    |
-| :-------- |
-| Abid      |
-| Shaheer   |
-| Shakhawat |
-| Fayhad    |
-
-| Uni Mandem 1 |
-| :----------- |
-| Yusuf        |
-| Yaseen       |
-| Ouafi        |
-| Lucas        |
-| Catalin      |
-
-| Uni Mandem 2 |
-| :----------- |
-| Jordan       |
-| Noshad       |
-| Senthuran    |
-| Adrian       |
-
-| Work Mandem |
-| :---------- |
-| Younes      |
-| Umar        |
-| Yasir       |
-| Navraj      |
-| Michael     |
-| Mohammed    |
-
-| Gay Mandem |
-| :--------- |
-| Rezwan     |
-| Tahmour    |
-
-| Secondary Mandem |
-| :--------------- |
-| Navin            |
-| Akhtar           |
-| Waseem Ahmed     |
-| Aastik           |
-| Anas             |
-| Ansh             |
-| Ashfaaq          |
-| Isaam            |
-| Margad           |
-| Rafsan           |
-| Thibo            |
-| Zulfar           |
-| Rizwan Islam     |
-| Yathin           |
-| Bilal Hoseny     |
-| Ali Rakhda       |
-| Zafar            |
-| Uwais            |
-| Sufi             |
-| Mustafa          |
-
-| Other mandem |
-| :----------- |
-| Chiraz       |
-|              |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
-| Abid         |
-| Shaheer      |
+Awais
+Mum
+Dad
+Taybah
+Haris
+UncleZaman
+AuntieZaman
+Amna
+Atif
+Kashif
+Wife
+AuntieRubina
+UncleZahid
+Sameer
+Uzair
+Huda
+Auntie Saima
+Uncle Ghazanfar
+Urooj
+Ihtasham
+Taha
+Fatima
+Azhar
+Uncle Hashim
+Uncle Arshad
+Auntie Nusrat
+Asim
+Muzammil
+Auntie
+Zainab
+Ali
+Maryam
+Taj
+Auntie
+Inaya
+Naveed
+Auntie
+Safa
+Marwa
+Nadeem
+Auntie
+UncleNaeem
+Auntie
+UncleParvez
+Auntie
+UncleRazzaq
+AuntieTanveer
+UncleKhalid
+Auntie
+Dr Haroon
+Auntie
+UncleNaeem215GB
+Auntie
+UncleArif
+Auntie
+Muqadis
+Husband
+Maria
+Husband
+Sadia
+Husband
+12Dadfriends
+12Dadfriends
+12Dadfriends
+12Dadfriends
+12Dadfriends
+12Dadfriends
+12Dadfriends
+12Dadfriends
+12Dadfriends
+12Dadfriends
+12Dadfriends
+12Dadfriends
+12Dadfriends
+Abid
+Shaheer
+Shakhawat
+Yusuf
+Yaseen
+Ouafi
+Catalin
+Noshad
+Younes
+Umar
+Yasir
+Navraj
+Michael
+Mohammed
+Rezwan
+Tahmour
+Navin
+Akhtar
+Waseem Ahmed
+Aastik
+Anas
+Ansh
+Ashfaaq
+Isaam
+Margad
+Zulfar
+Rizwan
+Yathin
+Bilal
+Mustafa
+Chiraz

@@ -1,3 +1,3 @@
 - type faster and more accurate
 - typing positioning
-- learn vim motions better
+- learn vim better

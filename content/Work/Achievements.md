@@ -13,4 +13,7 @@
 | 30/07/2026 | AED Summer training event                       |
 | 31/07/2026 | Completed Intern buddy program                  |
 | 18/08/2026 | Met with Grad buddy                             |
-| 27/08/2026 | Grad summer event                               |
+| 25/08/2026 | Completed Ai Academy training course stuff      |
+|            | Started Dell Project                            |
+|            | Finished Dell Project                           |
+|            | Started iSprint Project                         |

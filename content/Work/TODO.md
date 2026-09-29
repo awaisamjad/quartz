@@ -1,26 +1,22 @@
-# INBOX
+# IF Engineering SU
+- haven't even started
 
-plan for the next month to get a project/job
+# AI Utilities
 
-- September is the main month to get work
-- Book meetings with people in AED and other digital stuff
-- look for people that are managing assignments
-  - aqibs project
-  - more home office
-  - umars
-  - nav
-  -
-- Get a good personal statement for self
-- participate in the slack channels and COP's
-- AWS stuff
-  - Ai day course
-  - Ai exam
-  - Cloud practitioner
-- Max out linkedin training
-  - AI Agents
-- Apply to other jobs
+== BE THE MAIN DEV ==
+be responsible for all the decisions, own the product, understand the codebase, be in charge
 
-- alex moseman
-  - nokia project
-  - payment something project
-  - message him again in a week
+# Probation Review Part 2
+
+## Building and Maintaining Great Relationships
+- Setting up introduction calls with those in my capability, adjacent capabilities and the wider company
+- Asking relevant questions and taking notes in those meetings
+- Putting in catch up meetings
+- Building my network by attending events and networking
+- Introducing myself to the client and maintaining individual relationships with the client and sub contractors
+- Put in introduction calls with all people in my team to understand everyone's role and inform them of mine so we are all aware of our and each others responsibilities 
+
+## Delivering Brilliant Work
+- 
+
+ 
